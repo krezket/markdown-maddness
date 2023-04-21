@@ -73,7 +73,7 @@ ${res.License}
 ## [${res.Name}](https://github.com/krezket) 
 ${res.Mail}`
 
-    fs.writeFile('README.md',text,(err)=>{
+    fs.writeFile('./README/README.md',text,(err)=>{
         if(err){
             console.log('error')
         }
