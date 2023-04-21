@@ -4,9 +4,9 @@
 This application uses the inquirer package to generate README files, auto formatting them and automaitcally filling out each section with the provided data a user enters when answering the prompts.
 
 ## Installation
-This application uses the inquirer package, so to install dependencies write npm install inquirer@8.2.4 into the console, then hit enter.
+This application uses the inquirer package, so to install dependencies type "npm install inquirer@8.2.4" into the console, then hit enter.
 
-To run the application type node index.js into the console, then hit enter.
+To run the application type "node index.js" into the console, then hit enter.
     
 ## Usage Information
 It's pretty awesome 
