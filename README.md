@@ -18,4 +18,4 @@ MIT
     
 # Questions
 ## [Krezket](https://github.com/krezket) 
-anthonyguerrery62@outlook.com
+anthonyguerrero62@outlook.com
